@@ -60,11 +60,8 @@ The robot receives commands via Bluetooth and performs forward, backward, left, 
 
 ### Robot
 
-![Robot](images/robot.jpg)
+![Robot](images/car.png)
 
-### Wiring
-
-![Wiring](images/wiring.jpg)
 
 ---
 
